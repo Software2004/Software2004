@@ -1,4 +1,5 @@
-[![MasterHead](https://drive.google.com/uc?id=1Z6GijtlwxTrqx9ENFu2XRZ7xh6jW4E7w)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/uc?id=1_kOFsoJ8vZkXMzBebBjzclR_U6rUz0lM)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Fawad Hanif</h1>
 <h3 align="center">Android App Developer | Software Engineer | Problem Solver</h3>
 <h5 align="center">I'm a passionate Android developer focused on building high-quality, scalable, and user-centric mobile applications. My expertise lies in leveraging modern frameworks and best practices to deliver robust solutions.</h5>
