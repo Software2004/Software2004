@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/uc?id=1_kOFsoJ8vZkXMzBebBjzclR_U6rUz0lM)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/uc?id=1XCd_76brJyRe4NZc-DFsG0qsShbArbmR)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Fawad Hanif</h1>
 <h3 align="center">Android App Developer | Software Engineer | Problem Solver</h3>
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=software2004&label=Profile%20views&color=0e75b6&style=flat" alt="software2004" /> </p>
 
-<table border="0">
+<table border="0px">
   <tr>
     <td valign="top" width="70%">
       - 💬 Ask me about <strong>Android App Development.</strong><br>
